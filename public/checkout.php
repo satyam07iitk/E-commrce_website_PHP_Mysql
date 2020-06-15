@@ -85,6 +85,10 @@
           </span></strong> </td>
         </tr>
       </table>
+      <form action="" method="POST">
+        <input type="hidden" name=''>
+        <button class='btn btn-info'>Buy Now</button>
+      </form>
     </div><!-- CART TOTALS-->
 
 
