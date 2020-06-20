@@ -3,7 +3,7 @@
 
 <!-- Header -->
 <?php include(TEMPLATE_FRONT . DS . "header.php") ?>
-
+    
     <!-- Page Content -->
     <div class="container">
 
@@ -23,6 +23,7 @@
             </div>
 
         </div>
+
 
     </div>
     <!-- /.container -->
